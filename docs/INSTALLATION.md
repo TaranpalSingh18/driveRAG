@@ -42,11 +42,8 @@ cd ..
 ##### Configure Environment
 
 ```bash
-# Copy template
-cp .env.example .env
-
-# Edit with your credentials
-# Required: CLIENT_ID, CLIENT_SECRET, GROQ_API_KEY
+# Create a .env file in the project root and add your credentials
+# Required: CLIENT_ID, CLIENT_SECRET, SESSION_SECRET
 ```
 
 #### 3. Set Up Frontend
