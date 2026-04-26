@@ -23,6 +23,10 @@ High Watch is a FastAPI and React app for indexing Google Drive files and answer
 - `backend/rag/` contains search, retrieval, and answer generation logic
 - `backend/api/routes/` contains the HTTP route handlers
 
+
+## System Architecture
+![alt text](image.png)
+
 ## Setup
 
 1. Create a `.env` file in the project root with the variables below.
